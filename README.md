@@ -1,1 +1,1 @@
-Front de la red social con React y Vite
+Front de la red social con JavaScript, React y Vite
